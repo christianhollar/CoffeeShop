@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\n\ Customer\ class\ for\ each\ customer\ that\ comes\ into\ coffee\ shop\n\n\ @Christian\ Hollar\n\ @11/20/20\n
+comment1.params=d
+comment1.target=Customer(java.util.Date)
+comment1.text=\n\ generates\ random\ time\ and\ profit\n\ uses\ date\ for\ comparison\n\ enter\ corresponds\ to\ entry\ date\n
+comment2.params=
+comment2.target=int\ getProfit()
+comment2.text=\n\ returns\ profit\n\ @void\n\ @1\n
+comment3.params=
+comment3.target=int\ getXTime()
+comment3.text=\n\ returns\ time\n\ @void\n\ @1\n
+comment4.params=d
+comment4.target=java.util.Date\ exitTime(java.util.Date)
+comment4.text=\n\ returns\ exit\ time\n\ @"09\:00\:00"\n\ @"09\:10\:00"\n
+numComments=5

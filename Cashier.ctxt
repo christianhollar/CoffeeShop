@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cashier
+comment0.text=\n\ Cashier\ Object\ -\ holds\ boolean\ and\ customer\n\n\ @ChristianHollar\n\ @11/10/20\n
+comment1.params=s
+comment1.target=Cashier(boolean)
+comment1.text=\n\ status\ true\ means\ ready\ for\ customer\n
+numComments=2

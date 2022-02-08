@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CustomerSettings
+comment0.text=\n\ Customer\ Setting\ -\ generates\ preset\ variables\ for\ each\ customer\n\n\ @Christian\ Hollar\n\ @11/10/20\n
+comment1.params=
+comment1.target=CustomerSettings()
+comment1.text=\n\ Retrieves\ Profit,\ Time\ bounds\ to\ help\ \n\ with\ random\ number\ generation\n\ with\ each\ individual\ customer\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\n\ Event\ class\ -\ represnets\ new\ or\ leaving\ customer\n\n\ @ChristianHollar\n\ @11/10/20\n
+comment1.params=type\ c\ d
+comment1.target=Event(int,\ Customer,\ java.util.Date)
+comment1.text=\n\ Event\n\ \n\ Holds\ type\ (1\ means\ new\ customer,\ 2\ mean\ customer\ exit)\n\ holds\ customer\n\ holds\ time\ of\ event\n\ holds\ cashiernumber\ where\ customer\ visited\n
+comment2.params=e
+comment2.target=int\ compareTo(Event)
+comment2.text=\n\ CompareTo\ used\ to\ sort\ by\ date\n\ @new\ Event(1,null,"09\:00\:00)\n\ @1\n
+comment3.params=
+comment3.target=java.util.Date\ getDate()
+comment3.text=\n\ Returns\ date\ of\ event\n\ @void\n\ @"09\:00\:00"\n
+numComments=4

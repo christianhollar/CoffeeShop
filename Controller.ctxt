@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\n\ For\ input,\ calculates\ profit\ and\ overflow\ based\ on\ coffee\ shop\n\ parameters\ given\ from\ lab\ guide\n\n\ @Christian\ Hollar\n\ @11/10/20\n
+comment1.params=cashierN\ type\ report
+comment1.target=Controller(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Runs\ methods\:\ loadStudent()\ and\ cashierList()\ to\ load\ in\ all\n\ attempted\ entries\ and\ all\ available\ cashiers\n\ Calculates\:\n\ -Overflow\n\ -Profit\n\ -CashierCost\n\ -Net\ Profit\n\ -Average\ Time\n\ -Max\ Time\n\ -Algo\ Time\n
+comment2.params=
+comment2.target=void\ loadStudent()
+comment2.text=\n\ returns\ a\ filled\ PriorityQueue\ of\ Customer\ Arrival\ Events\n\ \n\ param\ void\n\ returns\ void\n
+comment3.params=
+comment3.target=void\ cashierList()
+comment3.text=\n\ sets\ number\ of\ cashiers\ in\ cashier\ arrayList\n\ \n\ param\ void\n\ return\ void\n
+comment4.params=
+comment4.target=void\ runThroughLink()
+comment4.text=\n\ using\ LinkedList\n\ checks\ if\ pQueue\ is\ empty\n\ Cycles\ through\ cashiers\ to\ fill\ from\ waiting\ line\ at\ beginning\n\ \n\ if\ type\ 1\n\ solves\ for\ overflow\n\ adds\ to\ waiting\ line\n\ cycles\ to\ next\ event\n\ \n\ if\ type\ 2\n\ frees\ cashier\n\ cycles\ to\ next\ event\n\ \n\ param\ void\n\ returns\ void\n
+comment5.params=
+comment5.target=void\ runThroughDeque()
+comment5.text=\n\ using\ ArrayDeque\n\ checks\ if\ pQueue\ is\ empty\n\ Cycles\ through\ cashiers\ to\ fill\ from\ waiting\ line\ at\ beginning\n\ \n\ if\ type\ 1\n\ solves\ for\ overflow\n\ adds\ to\ waiting\ line\n\ cycles\ to\ next\ event\n\ \n\ if\ type\ 2\n\ frees\ cashier\n\ cycles\ to\ next\ event\n\ \n\ param\ void\n\ returns\ void\n
+numComments=6
